@@ -1,4 +1,4 @@
-## Virtual_Mouse_and_Keyboard
+# Virtual_Mouse_and_Keyboard
 
 # Description of domain: 
 Virtual Mouse is an application which can replace your Computer Mouse and touchpad of your Laptop with normal hand gestures and eye movements. The concept behind using this application is to make waving our hands in front of our computer/laptop like a magic wand. Hand gestures are the most natural and effortless manner of communicating. This application will also help physically disabled people to perform the functions of a mouse using their eye movement. The Virtual Mouse provides an infrastructure between the user and the system using only a camera. It allows users to interface with machines without the use of mechanical or physical devices, and even control mouse functionalities. The suggested system will require the use of OpenCV and Python as well as other tools. OpenCV is a huge open-source library for computer vision, machine learning and image processing. It can process images and videos to identify objects, faces, hand gestures and many more things.
